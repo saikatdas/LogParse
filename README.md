@@ -8,6 +8,7 @@ goto project root directory and then type :
 
 python LogParser.py 91.234.194.89
 
-'you can have any text placed in first argument'
-python LogParser.py anytext
+you can have any text placed in first argument
+'python LogParser.py anytext'
+
 where anytext is a searchable string
