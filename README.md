@@ -1,4 +1,5 @@
 # LogParse
+![alt text](https://github.com/saikatdas/LogParse/blob/master/output.png)
 Parse Nginx log file
 
 How to run above Program ?
