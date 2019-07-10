@@ -1,6 +1,6 @@
 import sys,os
-len=sys.argv
-if(len==1):
+length=len(sys.argv)
+if(length==1):
     print ("Kindly enter anytext to search")
     sys.exit(0)
 strKeyWord=str(sys.argv[1])
