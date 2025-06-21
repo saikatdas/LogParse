@@ -2,7 +2,7 @@
 ![alt text](https://github.com/saikatdas/LogParse/blob/master/output.png)
 Parse Nginx log file
 
-How to run above Program ?
+-How to run above Program ?
 
 clone the repo in your local machine ; you should have python 3+ 
 goto project root directory and then type : 
